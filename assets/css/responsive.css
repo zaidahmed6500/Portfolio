@@ -1,0 +1,5 @@
+@media (max-width: 1024px) {
+  .hide-on-1024 {
+    display: none;
+  }
+}
